@@ -1,4 +1,4 @@
-<a style="position: relative; top: 10px;" href="https://sourcefuse.github.io/arc-docs/arc-api-docs" target="_blank"><img src="logo-dark-bg.png" alt="ARC By SourceFuse logo" title="ARC By SourceFuse" align="right" width="150" /></a>
+<a style="position: relative; top: 10px;" href="https://sourcefuse.github.io/arc-docs/arc-api-docs" target="_blank"><img src="https://github.com/shubhamp-sf/arc-readme-test-npm/blob/main/logo-dark-bg.png?raw=true" alt="ARC By SourceFuse logo" title="ARC By SourceFuse" align="right" width="150" /></a>
 
 # [arc-readme-test-npm](https://github.com/sourcefuse/loopback4-microservice-catalog)
 
