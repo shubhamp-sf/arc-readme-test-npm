@@ -1,7 +1,7 @@
 Yooo
 
 ```
-Go [here](./subfolder/README.md)
+Go [here](/packages/one/subfolder/README.md)
 ```
 
-Go [here](./subfolder/README.md)
+Go [here](/packages/one/subfolder/README.md)
